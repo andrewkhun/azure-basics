@@ -31,7 +31,7 @@
 
 
 <br><h2>Step 2 - Create a Resource Group</h2>
-<p>Navigate to the Azure Portal and click on Resource Groups to create your first Resource Group. Click Create, give your Resource group a name and place it in a region. When done click 'Review + Create' then 'Create' again.</p>
+<p>Navigate to the Azure Portal and click on Resource Groups to create your first Resource Group. Click Create, give your Resource group a name, and place it in a region. When done click 'Review + Create' then 'Create' again.</p>
 <p>
 <img src="https://imgur.com/HLgJ6ON.png" height="70%" width="70%" alt="Resource Group"/>
 </p>
@@ -55,12 +55,53 @@
 </p>
 
 <br><h2>Step 4 - Create a Container</h2>
+<p>Once inside the Storage Account, click on 'Containers' on the left toolbar. Click on 'Create' to create a Container, give it a name, then click 'Create'. The new Container will then populate inside the Storage Account. Double-click it to go inside.</p>
+<p>
+<img src="https://imgur.com/g6J4Db6.png" height="30%" width="30%" alt="Resource Group"/>
+</p>
+<p>
+<img src="https://imgur.com/hBjTVmb.png" height="70%" width="70%" alt="Resource Group"/>
+</p>
+<p>
+<img src="https://imgur.com/6tkbafB.png" height="70%" width="70%" alt="Resource Group"/>
+</p>
 
 <br><h2>Step 5 - Create and Upload a Text File</h2>
+<p>Head to your host machine's desktop and open 'Notepad'. Type in the notepad and make sure to save it. Next, head back to the Azure Portal and make sure you are still inside the Container we have just made. Click on 'Upload' and browse for the notepad text file we have saved, select it, and click 'Upload'.</p>
+<p>
+<img src="https://imgur.com/qRJOzDM.png" height="70%" width="70%" alt="Resource Group"/>
+</p>
+<p>
+<img src="https://imgur.com/hdGqHMV.png" height="70%" width="70%" alt="Resource Group"/>
+</p>
+<p>
+<img src="https://imgur.com/NR68jS1.png" height="70%" width="70%" alt="Resource Group"/>
+</p>
 
 <br><h2>Step 6 - Edit and Download the Text File</h2>
+<p> Right-click on the newly uploaded text file and click on 'View/edit'. Type inside the text box and click 'Save', then 'Download'. This will save the edit you have just made and download the new text file to your host computer. Once it has downloaded, navigate to the file and open it up to view the changes!</p>
+<p>
+<img src="https://imgur.com/hdV2GoX.png" height="70%" width="70%" alt="Resource Group"/>
+</p>
+<p>
+<img src="https://imgur.com/G19YwH8.png" height="70%" width="70%" alt="Resource Group"/>
+</p>
+<p>
+<img src="https://imgur.com/87atwxb.png" height="70%" width="70%" alt="Resource Group"/>
+</p>
 
 <br><h2>Step 7 - Delete The Resource Group</h2>
+<p>Navigate to Resource Groups inside the Azure Portal to delete the resources created in this lab. Deletion of the Resource Group will allow us to avoid incurring costs on Azure. Click on your resource group then click on 'Delete Resouce Group'. Enter the resource group name to confirm the deletion and then click 'Delete'. </p>
+<p>
+<img src="https://imgur.com/q9Lhb5R.png" height="70%" width="70%" alt="Resource Group"/>
+</p>
+<p>
+<img src="https://imgur.com/cTrANPz.png" height="70%" width="70%" alt="Resource Group"/>
+</p>
+
 
 <br><h2>Step 8 - Verify Deletion of the Resource Group</h2>
-
+<p>It may take several minutes to delete the Resource Group and related resources. Refresh the page and verify that the resource group has been deleted. This concludes the lab!</p>
+<p>
+<img src="https://imgur.com/1MSlqUv.png" height="70%" width="70%" alt="Resource Group"/>
+</p>
