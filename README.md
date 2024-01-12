@@ -43,6 +43,16 @@
 </p>
 
 <br><h2>Step 3 - Create a Storage Account</h2>
+<p>After your Resource Group has been created, search 'Storage accounts' in the search bar at the top of the Azure Portal. Click on 'Storage Accounts' to create a Storage Account inside of your Resource Group. Place the Storage Account into the previously made Resource Group, give the Storage Account a name, place it in the same region as the Resource Group, and click 'Review', then 'Create' to set up the Storage Account. Once the Storage Account has been deployed, click on 'Go to Resource'.</p>
+<p>
+<img src="https://imgur.com/YhoT0Fq.png" height="70%" width="70%" alt="Resource Group"/>
+</p>
+<p>
+<img src="https://imgur.com/x8SMDSi.png" height="70%" width="70%" alt="Resource Group"/>
+</p>
+<p>
+<img src="https://imgur.com/qmAJ96Q.png" height="70%" width="70%" alt="Resource Group"/>
+</p>
 
 <br><h2>Step 4 - Create a Container</h2>
 
